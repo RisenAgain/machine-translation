@@ -1,0 +1,14 @@
+1.
+
+generatedict.py is used for creating look up table for preposition word.
+
+2.
+hind-eng.py is used for getting word alignment from alignment sentences that was obtained from giza++
+
+3.
+
+nppharse_extract.py is used for preposition and postposition for getting preposition and their corresponding noun phrase making them postposition in hindi
+
+it also requires generatedict.py for look up table for preposition. 
+
+4. extract_sen.py is used for separating sentence (hindi and english) from alignment file that was obtained from giza++

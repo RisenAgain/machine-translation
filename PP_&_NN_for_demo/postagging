@@ -1,0 +1,19 @@
+X"" strap on one side to hold papers and projects
+
+1
+(S
+  X/NN
+  ''/''
+  ''/''
+  strap/NN
+  on/IN
+  one/CD
+  side/NN
+  to/TO
+  hold/VB
+  papers/NNS
+  and/CC
+  projects/NNS)
+[('on', 'IN'), ('one', 'CD'), ('side', 'NN'), ('to', 'TO'), ('hold', 'VB'), ('papers', 'NNS'), ('and', 'CC'), ('projects', 'NNS')]
+[('on', 'IN'), ('one', 'CD'), ('side', 'NN'), ('to', 'TO'), ('hold', 'VB'), ('papers', 'NNS'), ('and', 'CC'), ('projects', 'NNS')]
+
